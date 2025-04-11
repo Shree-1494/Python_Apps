@@ -1,1 +1,2 @@
-My Python apps.
+# My Python apps
+Developed python apps through learning.
